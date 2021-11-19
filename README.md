@@ -10,7 +10,7 @@ A neofetch-like program that fetches info about the music you listen to and disp
 5.  Run the program, it should work.
 
 ## Todo
-[x] LastFM Support
-[] Spotify Support 
-[] Include album cover in output
-[] Make code more efficient
+- [x] LastFM Support
+- [ ] Spotify Support 
+- [ ] Include album cover in output
+- [ ] Make code more efficient
