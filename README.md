@@ -1,5 +1,6 @@
+
 # musicfetch
-A neofetch-like program that fetches info about the music you listen to and displays it in a neofetch-like output.
+A compact python script that fetches info about the music you listen to and displays it in a neofetch-like output.
 
 
 ## Setup 
@@ -14,3 +15,4 @@ A neofetch-like program that fetches info about the music you listen to and disp
 - [ ] Spotify Support 
 - [ ] Include album cover in output
 - [ ] Make code more efficient
+- [ ] Beautify output, possibly use a library for colour in terminal?
