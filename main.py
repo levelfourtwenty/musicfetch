@@ -14,7 +14,6 @@ def readconfig():
 		apikey = config['login']['apikey']
 		secret = config['login']['secret']
 		displayinfo = config['default']['displayinfo']
-		fetchcover = config['default']['fetchcover']
 		username = config['login']['user']
 
 def initlastfm():
@@ -64,6 +63,8 @@ def main():
 	#
 	# if(confinfo.fetchcover == "spotify"):
 	# 	exit()
+	# if(confinfo.displayinfo == "both"):
+	#	exit()
 
 if __name__ == "__main__":
 	main()
